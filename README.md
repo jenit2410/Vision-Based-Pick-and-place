@@ -15,7 +15,7 @@ The primary aim of this project is to:
 4. **Transfer to Real Hardware**: Apply the developed simulation to a real UR5e cobot, transferring the pick-and-place operation from a virtual environment to a physical setup.
 5. **Understand Real-World Challenges**: Gain insight into the challenges associated with vision-based robotic applications in real-world scenarios, such as lighting variations, object occlusion, and camera calibration.
 
-## Key Points of the Project
+
 
 ### 1. Introduction to Vision-Based Robotic Applications
 
